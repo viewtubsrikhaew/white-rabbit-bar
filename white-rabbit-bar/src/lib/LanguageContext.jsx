@@ -229,7 +229,7 @@ export const translations = {
     nav_reserve: 'RESERVE',
     nav_book_now: 'BOOK NOW',
 
-    hero_badge: 'ON SILOM ROAD · BANGKOK · EST. 2019',
+    hero_badge: 'ON SILOM ROAD · BANGKOK · EST. 2009',
     hero_tagline: 'FOLLOW THE WHITE RABBIT DOWN THE HOLE.',
     hero_book: 'RESERVE A TABLE ↗',
     hero_events: "TONIGHT'S LINEUP",
