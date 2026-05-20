@@ -13,7 +13,7 @@ export const translations = {
     nav_book_now: 'จองเลย',
 
     // Hero
-    hero_badge: 'ติดถนนสีลม · กรุงเทพฯ · ก่อตั้ง 2019',
+    hero_badge: 'ติดถนนสีลม · กรุงเทพฯ · ก่อตั้ง 2009',
     hero_tagline: 'สถานที่สำหรับผู้กล้าและผู้อยากรู้',
     hero_book: 'จองคืนนี้ ↗',
     hero_events: 'ดูอีเวนต์',
@@ -40,7 +40,7 @@ export const translations = {
     pride_sub: 'ยินดีต้อนรับทุกคน · เห็นคุณค่าทุกคน',
 
     // Marquee
-    marquee_items: ['WHITE RABBIT', '·', 'ก่อนถึงสีลมซอย 2', '·', 'กรุงเทพฯ', '·', 'ก่อตั้ง 2019', '·', 'LGBTQ+ FRIENDLY', '·', 'เปิดทุกคืน', '·'],
+    marquee_items: ['WHITE RABBIT', '·', 'ก่อนถึงสีลมซอย 2', '·', 'กรุงเทพฯ', '·', 'ก่อตั้ง 2009', '·', 'LGBTQ+ FRIENDLY', '·', 'เปิดทุกคืน', '·'],
 
     // Promo
     promo_eyebrow: 'คืนนี้เท่านั้น',
@@ -252,7 +252,7 @@ export const translations = {
     pride_headline_post: 'LGBTQ+ space.',
     pride_sub: 'ALL ARE WELCOME · ALL ARE SEEN',
 
-    marquee_items: ['WHITE RABBIT', '·', 'BEFORE SILOM SOI 2', '·', 'BANGKOK', '·', 'EST. 2019', '·', 'LGBTQ+ FRIENDLY', '·', 'OPEN NIGHTLY', '·'],
+    marquee_items: ['WHITE RABBIT', '·', 'BEFORE SILOM SOI 2', '·', 'BANGKOK', '·', 'EST. 2009', '·', 'LGBTQ+ FRIENDLY', '·', 'OPEN NIGHTLY', '·'],
 
     promo_eyebrow: 'LIMITED TONIGHT',
     promo_title: 'TONIGHT\'S\nDEALS',
@@ -436,7 +436,7 @@ export const translations = {
     nav_reserve: '预订',
     nav_book_now: '立即预订',
 
-    hero_badge: '素隆路旁 · 曼谷 · 创立于 2019',
+    hero_badge: '素隆路旁 · 曼谷 · 创立于 2009',
     hero_tagline: '跟随白兔，深入洞穴。',
     hero_book: '预订桌位 ↗',
     hero_events: '今晚阵容',
@@ -459,7 +459,7 @@ export const translations = {
     pride_headline_post: '的 LGBTQ+ 空间',
     pride_sub: '欢迎所有人 · 尊重每一个人',
 
-    marquee_items: ['WHITE RABBIT', '·', 'BEFORE SILOM SOI 2', '·', '曼谷', '·', '创立于 2019', '·', 'LGBTQ+ 友好', '·', '每晚营业', '·'],
+    marquee_items: ['WHITE RABBIT', '·', 'BEFORE SILOM SOI 2', '·', '曼谷', '·', '创立于 2009', '·', 'LGBTQ+ 友好', '·', '每晚营业', '·'],
 
     promo_eyebrow: '今晚限定',
     promo_title: '今晚\n优惠',
