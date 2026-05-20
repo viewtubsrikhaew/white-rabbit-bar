@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 
-const defaultItems = ['WHITE RABBIT', '·', 'SILOM ROAD', '·', 'BANGKOK', '·', 'LGBTQ+ FRIENDLY', '·', 'OPEN NIGHTLY', '·', 'EST. 2019', '·'];
+const defaultItems = ['WHITE RABBIT', '·', 'SILOM ROAD', '·', 'BANGKOK', '·', 'LGBTQ+ FRIENDLY', '·', 'OPEN NIGHTLY', '·', 'EST. 2009', '·'];
 
 export default function PageMarquee({ items = defaultItems, reverse = false }) {
   return (
