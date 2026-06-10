@@ -26,7 +26,8 @@ export default function Footer() {
               <p className="mono text-[#F5F5F5] text-xs">089-956-6248</p>
               <p className="mono text-[#F5F5F5] text-xs">086-359-4778</p>
               <p className="mono text-[#F5F5F5] text-xs">098-887-8032</p>
-              <a href="https://www.facebook.com/profile.php?id=61561620376247" target="_blank" rel="noopener noreferrer" className="mono text-[#3B82F6] text-xs mt-2 block hover:text-[#60A5FA] transition-colors">FB: WHITE RABBiT Silom</a>
+              <a href="https://www.instagram.com/whiterabbitbar.bkk" target="_blank" rel="noopener noreferrer" className="mono text-[#E1306C] text-xs mt-2 block hover:opacity-80 transition-colors">IG: @whiterabbitbar.bkk</a>
+              <a href="https://www.facebook.com/profile.php?id=61561620376247" target="_blank" rel="noopener noreferrer" className="mono text-[#3B82F6] text-xs mt-1 block hover:text-[#60A5FA] transition-colors">FB: WHITE RABBiT Silom</a>
               <a href="mailto:Bangkokgreatfuture@gmail.com" className="mono text-[#3B82F6] text-xs mt-1 block hover:text-[#60A5FA] transition-colors">Bangkokgreatfuture@gmail.com</a>
               <p className="mono text-[#888888] text-xs mt-3">{t('footer_address')}</p>
             </div>
