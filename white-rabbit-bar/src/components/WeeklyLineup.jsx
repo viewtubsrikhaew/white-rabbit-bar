@@ -5,13 +5,13 @@ import { useLang } from '@/lib/LanguageContext';
 const days = ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN'];
 
 const scheduleImages = {
-  MON: 'https://media.base44.com/images/public/69f7654ff9b7e97f55cb2f12/a68affde1_mon2.png',
-  TUE: 'https://media.base44.com/images/public/69f7654ff9b7e97f55cb2f12/30b016449_tue.png',
-  WED: 'https://media.base44.com/images/public/69f7654ff9b7e97f55cb2f12/ce45db20b_wed.png',
-  THU: 'https://media.base44.com/images/public/69f7654ff9b7e97f55cb2f12/a067cba78_thu.png',
-  FRI: 'https://media.base44.com/images/public/69f7654ff9b7e97f55cb2f12/0bb3a099e_fri.png',
-  SAT: 'https://media.base44.com/images/public/69f7654ff9b7e97f55cb2f12/d80d00cf3_sat.png',
-  SUN: 'https://media.base44.com/images/public/69f7654ff9b7e97f55cb2f12/1e87b6e27_sun.png',
+  MON: 'https://res.cloudinary.com/dduc3pox4/image/upload/v1781108850/S__11018242_0_ltavnm.jpg',
+  TUE: 'https://res.cloudinary.com/dduc3pox4/image/upload/v1781108863/S__11018245_0_b9vbtw.jpg',
+  WED: 'https://res.cloudinary.com/dduc3pox4/image/upload/v1781108868/S__11018246_0_jbzq13.jpg',
+  THU: 'https://res.cloudinary.com/dduc3pox4/image/upload/v1781108873/S__11018247_0_aedttm.jpg',
+  FRI: 'https://res.cloudinary.com/dduc3pox4/image/upload/v1781108776/S__11018249_0_hoki37.jpg',
+  SAT: 'https://res.cloudinary.com/dduc3pox4/image/upload/v1781108877/S__11018248_0_mflzay.jpg',
+  SUN: 'https://res.cloudinary.com/dduc3pox4/image/upload/v1781108857/S__11018244_0_gqsxxb.jpg',
 };
 
 const dayFull = {
