@@ -21,7 +21,7 @@ const heroSlides = [
 ];
 
 const featuredEvents = [
-  { date: 'AUG 1',  day: 'FRI', title: 'WHITE RABBIT BIRTHDAY', dj: 'ANNIVERSARY', time: '20:00', color: '#A78BFA' },
+  { date: 'AUG 1',  day: 'FRI', title: 'WHITE RABBIT 17TH ANNIVERSARY', dj: 'ANNIVERSARY NIGHT', time: '20:00', color: '#A78BFA' },
   { date: 'MAY 31', day: 'SAT', title: 'PRIDE NIGHT', dj: 'SPECIAL EVENT', time: '22:00', color: '#EC4899' },
   { date: 'OCT 31', day: 'SAT', title: 'HALLOWEEN NIGHT', dj: 'SPECIAL EVENT', time: '21:00', color: '#F97316' },
   { date: 'DEC 25', day: 'THU', title: 'CHRISTMAS NIGHT', dj: 'SPECIAL EVENT', time: '20:00', color: '#22C55E' },

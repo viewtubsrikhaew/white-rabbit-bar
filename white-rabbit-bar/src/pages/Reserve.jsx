@@ -52,7 +52,6 @@ export default function Reserve() {
     }
   };
 
-  const lineURL = `https://line.me/R/ti/p/@whiterabbitbkk`;
   const phoneNumber = '+6621234567';
 
   if (submitted) {
