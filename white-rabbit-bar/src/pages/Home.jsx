@@ -21,7 +21,8 @@ const heroSlides = [
 ];
 
 const featuredEvents = [
-  { date: 'MAY 30', day: 'SAT', title: 'PRIDE NIGHT', dj: 'SPECIAL EVENT', time: '22:00', color: '#EC4899' },
+  { date: 'AUG 1',  day: 'FRI', title: 'WHITE RABBIT BIRTHDAY', dj: 'ANNIVERSARY', time: '20:00', color: '#A78BFA' },
+  { date: 'MAY 31', day: 'SAT', title: 'PRIDE NIGHT', dj: 'SPECIAL EVENT', time: '22:00', color: '#EC4899' },
   { date: 'OCT 31', day: 'SAT', title: 'HALLOWEEN NIGHT', dj: 'SPECIAL EVENT', time: '21:00', color: '#F97316' },
   { date: 'DEC 25', day: 'THU', title: 'CHRISTMAS NIGHT', dj: 'SPECIAL EVENT', time: '20:00', color: '#22C55E' },
   { date: 'DEC 31', day: 'WED', title: "NEW YEAR'S EVE", dj: 'COUNTDOWN PARTY', time: '21:00', color: '#3B82F6' },
