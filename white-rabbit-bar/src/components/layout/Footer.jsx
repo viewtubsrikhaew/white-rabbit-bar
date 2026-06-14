@@ -50,7 +50,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-3">
           <p className="mono text-[#888888] text-xs">{t('footer_copy')}</p>
           <div className="flex gap-5 items-center">
-            <a href="https://www.instagram.com/whiterabbitbar.th?igsh=OTZnd290OTNpZTFl" target="_blank" rel="noopener noreferrer" className="text-[#888888] hover:text-[#3B82F6] transition-colors duration-300" aria-label="Instagram">
+            <a href="https://www.instagram.com/whiterabbitbar.bkk?igsh=OTZnd290OTNpZTFl" target="_blank" rel="noopener noreferrer" className="text-[#888888] hover:text-[#3B82F6] transition-colors duration-300" aria-label="Instagram">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
                 <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
                 <circle cx="12" cy="12" r="4"/>

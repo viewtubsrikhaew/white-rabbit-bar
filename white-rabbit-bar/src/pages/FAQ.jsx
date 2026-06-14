@@ -97,13 +97,13 @@ export default function FAQ() {
             <p className="text-[#888888] text-sm font-light mb-6">{t('faq_contact_sub')}</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://www.instagram.com/whiterabbitbar.th?igsh=OTZnd290OTNpZTFl"
+                href="https://www.instagram.com/whiterabbitbar.bkk?igsh=OTZnd290OTNpZTFl"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mono text-xs px-6 py-3 border tracking-widest hover:opacity-90 transition-all"
                 style={{ borderColor: '#E1306C50', background: 'rgba(225,48,108,0.08)', color: '#E1306C' }}
               >
-                IG: @WHITERABBITBAR.TH
+                IG: @WHITERABBITBAR.BKK
               </a>
               <a
                 href="https://www.facebook.com/profile.php?id=61561620376247"

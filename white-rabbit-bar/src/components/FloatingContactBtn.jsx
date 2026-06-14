@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 import { X, Instagram, Facebook, CalendarCheck } from 'lucide-react';
 
 const socialLinks = [
-  { icon: Instagram, label: 'INSTAGRAM', href: 'https://www.instagram.com/whiterabbitbar.th?igsh=OTZnd290OTNpZTFl', color: '#E1306C' },
+  { icon: Instagram, label: 'INSTAGRAM', href: 'https://www.instagram.com/whiterabbitbar.bkk?igsh=OTZnd290OTNpZTFl', color: '#E1306C' },
   { icon: Facebook,  label: 'FACEBOOK',  href: 'https://www.facebook.com/profile.php?id=61561620376247',             color: '#1877F2' },
 ];
 

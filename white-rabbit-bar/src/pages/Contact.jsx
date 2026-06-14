@@ -6,7 +6,7 @@ import PageMarquee from '../components/PageMarquee';
 import PageShareBar from '../components/PageShareBar';
 
 const social = [
-  { icon: Instagram, label: 'INSTAGRAM', handle: '@whiterabbitbar.th', href: 'https://www.instagram.com/whiterabbitbar.th?igsh=OTZnd290OTNpZTFl' },
+  { icon: Instagram, label: 'INSTAGRAM', handle: '@whiterabbitbar.bkk', href: 'https://www.instagram.com/whiterabbitbar.bkk?igsh=OTZnd290OTNpZTFl' },
   { icon: Facebook, label: 'FACEBOOK', handle: 'White Rabbit Silom', href: 'https://www.facebook.com/profile.php?id=61561620376247' },
 ];
 
@@ -18,7 +18,7 @@ export default function Contact() {
     { icon: Phone, label: t('contact_phone_label'), value: '086-359-4778', href: 'tel:+66863594778', cta: t('contact_phone_cta'), color: '#3B82F6' },
     { icon: Phone, label: t('contact_phone_label'), value: '098-887-8032', href: 'tel:+66988878032', cta: t('contact_phone_cta'), color: '#3B82F6' },
     { icon: Mail, label: 'EMAIL', value: 'Bangkokgreatfuture@gmail.com', href: 'mailto:Bangkokgreatfuture@gmail.com', cta: 'EMAIL US', color: '#3B82F6' },
-    { icon: Instagram, label: 'INSTAGRAM', value: '@whiterabbitbar.th', href: 'https://www.instagram.com/whiterabbitbar.th?igsh=OTZnd290OTNpZTFl', cta: 'FOLLOW', color: '#E1306C' },
+    { icon: Instagram, label: 'INSTAGRAM', value: '@whiterabbitbar.bkk', href: 'https://www.instagram.com/whiterabbitbar.bkk?igsh=OTZnd290OTNpZTFl', cta: 'FOLLOW', color: '#E1306C' },
     { icon: Facebook, label: 'FACEBOOK', value: 'White Rabbit Silom', href: 'https://www.facebook.com/profile.php?id=61561620376247', cta: 'FOLLOW', color: '#1877F2' },
     { icon: MapPin, label: t('contact_location_label'), value: t('contact_location_value'), href: 'https://maps.google.com/?q=Silom+Soi+2+Bangkok', cta: t('contact_location_cta'), color: '#F472B6' },
   ];

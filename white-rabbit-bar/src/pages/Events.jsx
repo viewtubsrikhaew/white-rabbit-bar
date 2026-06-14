@@ -8,8 +8,19 @@ import LocationBadge from '../components/LocationBadge';
 
 const events = [
   {
+    id: 0,
+    date: 'AUG 1',
+    day: 'FRIDAY',
+    title: "WHITE RABBIT BIRTHDAY",
+    desc: 'ครบรอบ 1 ปี White Rabbit Bar Silom — คืนพิเศษที่สุดของปี เฉลิมฉลองกับครอบครัว White Rabbit ที่สีลม ซอย 2 กรุงเทพฯ',
+    time: '20:00 – 04:00',
+    tags: ['BIRTHDAY', 'ANNIVERSARY', 'SPECIAL EVENT'],
+    img: '',
+    color: '#A78BFA',
+  },
+  {
     id: 1,
-    date: 'MAY 30',
+    date: 'MAY 31',
     day: 'FRIDAY',
     title: 'PRIDE NIGHT',
     desc: 'A night celebrating identity, love, and freedom. The most colourful, electric night of the year at White Rabbit Bar Silom Bangkok.',
@@ -88,9 +99,6 @@ function EventRow({ event, index }) {
 
         {/* Action */}
         <div className="md:pt-1 flex flex-col items-start md:items-end gap-4">
-          <div className="gallery-item w-24 h-24 md:w-32 md:h-32 overflow-hidden">
-            <img src={event.img} alt={event.title} className="w-full h-full object-cover" />
-          </div>
           <Link
             to={`/reserve?event=${encodeURIComponent(event.title)}&date=${encodeURIComponent(event.date)}`}
             className="pride-btn mono text-xs px-5 py-3 border transition-all duration-300 whitespace-nowrap"

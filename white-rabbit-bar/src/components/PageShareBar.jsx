@@ -23,7 +23,7 @@ export default function PageShareBar() {
             FACEBOOK
           </a>
           <a
-            href="https://www.instagram.com/whiterabbitbar.th"
+            href="https://www.instagram.com/whiterabbitbar.bkk?igsh=OTZnd290OTNpZTFl"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 mono text-xs px-5 py-2.5 border transition-all duration-300 hover:scale-[1.03]"
